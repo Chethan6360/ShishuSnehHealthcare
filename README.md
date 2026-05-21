@@ -1,150 +1,134 @@
-````md
-# 🏥 Shishu-Sneh Healthcare App
-
-An Android Healthcare Application developed using **Kotlin**, **Android Studio**, and **Jetpack Compose** to help parents monitor baby healthcare, vaccination schedules, growth tracking, feeding guidance, and milestone development.
+# 👶 ShishuSneh Healthcare App
 
 ## 📌 Project Overview
+**ShishuSneh Healthcare App** is an Android healthcare application developed to support parents in tracking their baby’s health, growth, and vaccination schedule. The app acts as a digital healthcare assistant for newborns and children by providing vaccination reminders, feeding guidance, growth tracking, milestone monitoring, and emergency healthcare support.
 
-**Shishu-Sneh Healthcare** is a smart healthcare app designed for babies and mothers. It acts as a digital healthcare assistant to track child growth, immunization reminders, feeding schedules, health reports, and developmental milestones.
-
-This project was developed as part of the **Android App Development using GenAI Internship** at **Mindmatrix**.
+This project was developed using **Kotlin**, **Android Studio**, and **Jetpack Compose** as part of an internship project at **MindMatrix**.
 
 ---
 
 ## 🚀 Features
 
-### 👶 Baby Profile
-- Add and manage baby details
-- Store baby name, DOB, blood group, gender, and parent details
-
-### 📈 Growth Tracker
-- Monitor baby height and weight
-- Track growth progress
+### 🍼 Baby Profile Management
+- Add baby details such as:
+  - Baby Name
+  - Date of Birth
+  - Gender
+  - Blood Group
+  - Parent Name
+  - Phone Number
 
 ### 💉 Vaccination Reminder
-- View upcoming vaccines
-- Reminder for immunization schedules
+- Tracks baby vaccination schedules.
+- Sends reminders for important vaccines.
+- Helps parents avoid missing vaccinations.
 
-### 🥗 Feeding Guide
-- Age-based food recommendations
-- Nutrition guidance for baby growth
+### 📈 Growth Tracking
+- Monitor child growth and development.
+- Record weight and health progress.
 
-### 🧸 Milestone Tracker
-- Track baby developmental milestones
-- Monitor age-based activities
+### 🍎 Feeding Guide
+- Age-based food recommendations:
+  - **0–6 Months:** Breast milk only
+  - **6–12 Months:** Soft foods + milk
+  - **1–2 Years:** Fruits, vegetables, rice
+  - **2+ Years:** Healthy balanced diet
 
-### 🚨 Emergency Contact
-- Quick access to emergency healthcare numbers
+### 🎯 Milestone Tracking
+- Track developmental milestones of babies.
+- Helps parents monitor child growth stages.
 
-### 📋 Health Report
-- View baby healthcare information and reports
+### 🚑 Emergency Contacts
+Quick access to emergency healthcare numbers:
+- Hospital
+- Ambulance
+- Pediatrician
+
+### 🔔 Notification System
+- Vaccine reminder notifications.
+- Timely alerts for healthcare tracking.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Language:** Kotlin
+- **Programming Language:** Kotlin
 - **IDE:** Android Studio
 - **UI Framework:** Jetpack Compose
-- **Architecture:** Navigation Component
-- **Storage:** SharedPreferences
+- **Architecture:** Android App Architecture
+- **Notification System:** Reminder Scheduler
 - **Version Control:** Git & GitHub
 
 ---
 
-## 📱 Screenshots
-
-Add your app screenshots here.
-
-Example:
-
-```md
-![Home Screen](screenshots/home.png)
-![Growth Tracker](screenshots/growth.png)
-![Vaccination Reminder](screenshots/vaccine.png)
-````
-
----
-
-## 📂 Project Structure
-
-```bash
-ShishuSnehHealthcare/
-│── app/
-│── manifests/
-│── java/
-│── res/
-│── build.gradle.kts
-│── settings.gradle.kts
-```
+## 📱 Screens Included
+- Home Screen
+- Baby Profile Screen
+- Vaccination Reminder Screen
+- Growth Tracking Screen
+- Feeding Guide Screen
+- Milestone Tracker Screen
+- Emergency Contact Screen
 
 ---
 
 ## 🎯 Problem Statement
-
-Many parents struggle to track baby healthcare records manually, including growth, feeding schedules, vaccinations, and milestone development.
-
-**Shishu-Sneh Healthcare App** solves this issue by providing a digital healthcare solution to monitor child health efficiently.
+Many parents, especially in rural and busy environments, struggle to monitor baby healthcare activities such as vaccination schedules, feeding guidance, growth tracking, and developmental milestones. There is a need for a simple mobile application that helps parents manage their baby’s healthcare in one place.
 
 ---
 
-## 🎓 Academic Details
+## 🎯 Objectives
+- To develop a healthcare tracking application for babies.
+- To provide vaccination reminders and schedules.
+- To help parents monitor baby growth and milestones.
+- To provide feeding guidance based on age.
+- To offer emergency healthcare support.
 
-**Project Title:** Android App Development using GenAI – Shishu-Sneh (Healthcare)
+---
 
-**Student Name:** Chethan P C
-**USN:** 4GM22AI022
-**Department:** Artificial Intelligence & Machine Learning (AIML)
-**College:** GM Institute of Technology
-**Semester:** 8th Semester
-**Academic Year:** 2025–2026
+## 📊 Expected Outcomes
+- Better healthcare tracking for babies.
+- Timely vaccination reminders.
+- Easy monitoring of child development.
+- Improved healthcare awareness among parents.
+
+---
+
+## 🏢 Internship Details
+**Company Name:** MindMatrix  
+**Project Title:** Android App Development using GenAI – ShishuSneh (Healthcare)  
+**Internship Duration:** January 2026 – May 2026
+
+---
+
+## 👨‍💻 Developer Details
+
+**Name:** Chethan P C  
+**USN:** 4GM22AI022  
+**Department:** Artificial Intelligence & Machine Learning (AIML)  
+**Semester:** 8th Semester  
+**College:** GM Institute of Technology  
 
 **Guide:** Ms. Pooja K
-**Internship Company:** Mindmatrix
 
 ---
 
-## 🔮 Future Enhancements
-
-* AI-based health suggestions
-* Cloud database integration
-* Doctor appointment booking
-* Notification improvements
-* Online health consultation
+## 🔗 GitHub Repository
+Repository Link:  
+https://github.com/Chethan6360/ShishuSnehHealthcare
 
 ---
 
-## 📥 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Chethan6360/ShishuSnehHealthcare.git
-```
-
-2. Open in Android Studio
-
-3. Sync Gradle files
-
-4. Run the project on Emulator or Android Device
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit pull requests.
+## 📌 Future Enhancements
+- AI-based health suggestions.
+- Online doctor consultation.
+- Cloud data backup.
+- Multi-language support.
+- Health report generation.
 
 ---
 
 ## 📜 License
-
 This project is developed for educational and internship purposes.
 
----
-
-## ⭐ Support
-
-If you like this project, give it a **Star ⭐** on GitHub.
-
-```
-```
+⭐ If you like this project, give it a star on GitHub!
